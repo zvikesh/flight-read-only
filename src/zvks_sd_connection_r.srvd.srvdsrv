@@ -1,0 +1,7 @@
+@EndUserText.label: 'Flight Connection'
+define service ZVKS_SD_CONNECTION_R {
+  expose ZVKS_C_Connection_R as FlightConnection;
+  expose ZVKS_C_Flight_R     as FlightDetails;
+  expose ZVKS_R_Airline      as Airline;
+  expose ZVKS_R_CONTACT      as AirlineContact;
+}
