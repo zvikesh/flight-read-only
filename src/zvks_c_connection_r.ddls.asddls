@@ -32,7 +32,7 @@ define view entity ZVKS_C_Connection_R
                                                            and $projection.ConnectionID = _FlightDetails.ConnectionID
 
   //Contact Card - Required to be added to Service Definition for Exposure
-  association [0..1] to ZVKS_R_CONTACT  as _AirlineContact on  $projection.ContactID = _AirlineContact.ContactID
+  association [0..1] to ZVKS_R_Contact  as _AirlineContact on  $projection.ContactID = _AirlineContact.ContactID
 
   //Text Associations
   association [1..1] to ZVKS_R_Airline  as _Airline        on  $projection.AirlineID = _Airline.AirlineID
