@@ -7,5 +7,5 @@
 # Flight Connections - Object Page
 ![image](https://github.com/zvikesh/flight-read-only/assets/108741639/687df523-1504-4d02-a8b1-f800a0cee8a1)
 
-# Flight Connections ->  Flight Object Page
+# Flight Connections/Flight - Object Page
 ![image](https://github.com/zvikesh/flight-read-only/assets/108741639/6e78bad8-22b5-424f-8593-8525e90e8683)
