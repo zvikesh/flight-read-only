@@ -24,7 +24,7 @@ ZVKS_R_CONTACT
 - Is directly used as Value Help, create interface value help and expose.
 
 ZVKS_C_Connection_R
-- Rename to ZVKS_C_ConnectionR
+- Rename to ZVKS_C_ConnectionR.
 
 ZVKS_C_Flight_R
-- Rename to ZVKS_C_FlightR
+- Rename to ZVKS_C_FlightR.
